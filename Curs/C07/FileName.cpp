@@ -154,5 +154,18 @@ int main() {
 		cout << "\nInvers";
 	}
 
+
+
+	//comparatii ==; <=
+	// ! (negatie)
+	// += / -=
+	// +
+	// ++ (pre si post)
+	// >> si <<
+	// []
+	// cast/conversie
+	//friend
+
+
 	return 0;
 }
